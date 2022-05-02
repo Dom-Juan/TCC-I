@@ -1,0 +1,30 @@
+Enviados:
+https://www.serpro.gov.br/lgpd/noticias/2020/privacidade-algoritmos-inteligentes-futuro-lgpd
+https://flowti.com.br/blog/como-a-seguranca-da-informacao-e-afetada-pela-nova-lei-geral-de-protecao-de-dados
+https://repositorio.unb.br/handle/10482/42510
+https://lapin.org.br/2021/04/09/cartilha-controlador-ou-operador-quem-sou-eu/?gclid=EAIaIQobChMI9bqK1M6w9wIVCzGRCh0ovwXDEAAYAyAAEgJJv_D_BwE
+https://juslaboris-hml.tst.jus.br/handle/20.500.12178/186013
+
+Achados:
+https://books.google.com.br/books?hl=pt-BR&lr=&id=lS3sDwAAQBAJ&oi=fnd&pg=PA3&dq=m%C3%A9todos+de+aplica%C3%A7%C3%A3o+de+lei+geral+de+prote%C3%A7%C3%A3o+de+dados&ots=WkUmhOQNXy&sig=nh2ZAsSUCAsbsWK-6LgGopRB6jQ#v=onepage&q=m%C3%A9todos%20de%20aplica%C3%A7%C3%A3o%20de%20lei%20geral%20de%20prote%C3%A7%C3%A3o%20de%20dados&f=false
+https://d1wqtxts1xzle7.cloudfront.net/63296745/LEI_GERAL_DE_PROTECAO_DE_DADOS_PESSOAIS_NAS_RELACOES_DO_COMERCIO_ELETRONICO20200513-98717-2hqhqj-with-cover-page-v2.pdf?Expires=1651110453&Signature=ANHcX9Xo-sQ39J85blZyilWGDy-gA~N51cF6k5iUlodfU7VP7UpEhIV7BGsTw85UCLugh4yFEECFH5tVbfp5HkEGDlSfepACHrHtK~c2-pkOvUA4A0NphVUPW6Whslej-EiYyObDUjiDVfnRrQ40RQF4NeQZ9ERehe1C1uFvZ9FhvIr~ZHtdSST~H2gqSmXZzKxjkqhLjhOT5OAlRBWSajd0ciZTdJRuXxviBaE4BsMR2YlrvuyT~ZjmI7ZMLPzJCQBVEEWZI3OPeQo20JeKimsgPHrjLJIUILSBvcdGXIpVZArZS54qjpScQ65KCZGl~wSu4NkVSHTsVoiOoGOyhA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+https://juslaboris-hml.tst.jus.br/bitstream/handle/20.500.12178/186013/2021_buchain_luiz_lgpd_nocoes.pdf?sequence=1&isAllowed=y
+https://periodicos.unifor.br/rpen/article/view/10525
+https://repositorio.animaeducacao.com.br/handle/ANIMA/11112
+https://igarape.org.br/wp-content/uploads/2018/12/Existe-um-direito-a-explicacao-na-Lei-Geral-de-Protecao-de-Dados-no-Brasil.pdf
+https://repositorio.ufsc.br/handle/123456789/222071
+https://repositorio.ufu.br/handle/123456789/23198
+https://www.quirksmode.org/js/cookies.html
+
+
+fazer:
+auto backup com node-js: https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a
+portscanner: https://davidwalsh.name/javascript-port-scanner
+			*https://www.youtube.com/watch?v=1KciYASZO3o
+			*https://stackoverflow.com/questions/60080702/javascript-opened-ports-scanner
+Como fazer uma CLI:
+		*https://medium.com/stackfame/how-to-run-shell-script-file-or-command-using-nodejs-b9f2455cb6b7
+		*https://stackabuse.com/executing-shell-commands-with-node-js/
+		*https://www.twilio.com/blog/como-criar-uma-cli-com-node-js
+		*https://stackoverflow.com/questions/14790910/stop-all-instances-of-node-js-server
+Checar portas abertas no serviço (portscanner)
